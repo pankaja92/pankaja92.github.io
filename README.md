@@ -8,6 +8,6 @@ This is my Personal Website
 ### Todos
    - Animation
    - UX
-### Live version is hosted [Here](http://thidasapankaja.me) or [Here](pankaja92.github.io)
+### Live version is hosted [Here](http://thidasapankaja.me)
 ##### This project is bootsrapped with,
 ###### [The default Gatsby starter](http://gatsbyjs.github.io/gatsby-starter-default/)
