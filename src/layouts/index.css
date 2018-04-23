@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+
+html,
+body {
+  background-color: #ffaf00;
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+.Full {
+  width: 90%;
+  margin: 0 auto;
+  font-family: 'Inconsolata', monospace;
+}
+
+@media screen and (min-width: 600px) {
+  .Full{
+   font-size : 28px;
+  }
+ }
+
+.Photography, .Photography:visited, .Photography:link, .Photography:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+.Photography:hover {
+  color: black;
+}
