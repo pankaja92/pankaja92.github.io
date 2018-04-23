@@ -1,0 +1,68 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-3df42863f36df3fe9da1.js",
+      "component---src-pages-index-js-3df42863f36df3fe9da1.js.map"
+    ],
+    "path---": [
+      "path----14bed05be963afe85b6c.js",
+      "path----14bed05be963afe85b6c.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-842d9ff8e30a21dae300.js",
+      "component---src-pages-contact-js-842d9ff8e30a21dae300.js.map"
+    ],
+    "path---projects": [
+      "path---projects-a0e39f21c11f6a62c5ab.js",
+      "path---projects-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-2b96ab011d2361670181.js",
+      "component---src-layouts-index-js-2b96ab011d2361670181.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---skills": [
+      "path---skills-a0e39f21c11f6a62c5ab.js",
+      "path---skills-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-d6a75353c936e3e36a44.js",
+      "component---src-pages-404-js-d6a75353c936e3e36a44.js.map"
+    ],
+    "commons": [
+      "commons-e046370cf6b52a293e1e.js",
+      "build-js-styles.css",
+      "commons-e046370cf6b52a293e1e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-projects-js": [
+      "component---src-pages-projects-js-9266988e0a1b8a34f5da.js",
+      "component---src-pages-projects-js-9266988e0a1b8a34f5da.js.map"
+    ],
+    "app": [
+      "app-7eabf43b7b7c72c3f1a7.js",
+      "build-js-styles.css",
+      "app-7eabf43b7b7c72c3f1a7.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-skills-js": [
+      "component---src-pages-skills-js-9b025f7c4e4744056c4a.js",
+      "component---src-pages-skills-js-9b025f7c4e4744056c4a.js.map"
+    ]
+  }
+}
